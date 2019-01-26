@@ -1,3 +1,0 @@
-E:/bala/project/UML-State-Machine-in-C/test/build/utc/CMakeFiles/hsm_UnitTest.dir
-E:/bala/project/UML-State-Machine-in-C/test/build/utc/CMakeFiles/edit_cache.dir
-E:/bala/project/UML-State-Machine-in-C/test/build/utc/CMakeFiles/rebuild_cache.dir
